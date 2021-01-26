@@ -1,2 +1,2 @@
 # CLipy
- CLs limits in python
+ CL limits in python
